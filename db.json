@@ -1,4 +1,5 @@
 {
+  // login pages users
   "users": [
     {
       "id": "b5dd",
@@ -75,6 +76,610 @@
       "updated_at": "2023-07-10T08:15:22Z"
     }
     
+  ],
+  "usersData":[
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "phone": "+91 9876543210",
+      "email": "rajesh.kumar@example.com",
+      "status": "active",
+      "address": {
+        "street": "456 MG Road",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Amit Singh",
+      "phone": "+91 9123456789",
+      "email": "amit.singh@example.com",
+      "status": "active",
+      "address": {
+        "street": "789 Link Road",
+        "city": "Delhi",
+        "state": "DL",
+        "postalCode": "110001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Sneha Sharma",
+      "phone": "+91 9234567890",
+      "email": "sneha.sharma@example.com",
+      "status": "active",
+      "address": {
+        "street": "123 Park Avenue",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Vikram Mehta",
+      "phone": "+91 9345678901",
+      "email": "vikram.mehta@example.com",
+      "status": "active",
+      "address": {
+        "street": "234 Gandhi Nagar",
+        "city": "Ahmedabad",
+        "state": "GJ",
+        "postalCode": "380001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "Anjali Verma",
+      "phone": "+91 9456789012",
+      "email": "anjali.verma@example.com",
+      "status": "active",
+      "address": {
+        "street": "345 Sardar Patel Road",
+        "city": "Chennai",
+        "state": "TN",
+        "postalCode": "600001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "Karan Desai",
+      "phone": "+91 9567890123",
+      "email": "karan.desai@example.com",
+      "status": "active",
+      "address": {
+        "street": "456 Marine Drive",
+        "city": "Kolkata",
+        "state": "WB",
+        "postalCode": "700001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "Pooja Rao",
+      "phone": "+91 9678901234",
+      "email": "pooja.rao@example.com",
+      "status": "active",
+      "address": {
+        "street": "567 Lajpat Nagar",
+        "city": "Hyderabad",
+        "state": "TG",
+        "postalCode": "500001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 8,
+      "name": "Rahul Nair",
+      "phone": "+91 9789012345",
+      "email": "rahul.nair@example.com",
+      "status": "active",
+      "address": {
+        "street": "678 Brigade Road",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560002",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "name": "Priya Jain",
+      "phone": "+91 9890123456",
+      "email": "priya.jain@example.com",
+      "status": "active",
+      "address": {
+        "street": "789 Nehru Place",
+        "city": "Delhi",
+        "state": "DL",
+        "postalCode": "110002",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 10,
+      "name": "Arjun Gupta",
+      "phone": "+91 9901234567",
+      "email": "arjun.gupta@example.com",
+      "status": "active",
+      "address": {
+        "street": "890 Aundh Road",
+        "city": "Pune",
+        "state": "MH",
+        "postalCode": "411001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 11,
+      "name": "Meera Kapoor",
+      "phone": "+91 9012345678",
+      "email": "meera.kapoor@example.com",
+      "status": "active",
+      "address": {
+        "street": "901 MG Road",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400002",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 12,
+      "name": "Rakesh Pandey",
+      "phone": "+91 9123456789",
+      "email": "rakesh.pandey@example.com",
+      "status": "active",
+      "address": {
+        "street": "123 Park Street",
+        "city": "Kolkata",
+        "state": "WB",
+        "postalCode": "700002",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 13,
+      "name": "Neha Agarwal",
+      "phone": "+91 9234567890",
+      "email": "neha.agarwal@example.com",
+      "status": "active",
+      "address": {
+        "street": "234 Connaught Place",
+        "city": "Delhi",
+        "state": "DL",
+        "postalCode": "110003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 14,
+      "name": "Manoj Tiwari",
+      "phone": "+91 9345678901",
+      "email": "manoj.tiwari@example.com",
+      "status": "active",
+      "address": {
+        "street": "345 Brigade Road",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560003",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 15,
+      "name": "Sunita Patel",
+      "phone": "+91 9456789012",
+      "email": "sunita.patel@example.com",
+      "status": "active",
+      "address": {
+        "street": "456 Marine Drive",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 16,
+      "name": "Deepak Shah",
+      "phone": "+91 9567890123",
+      "email": "deepak.shah@example.com",
+      "status": "active",
+      "address": {
+        "street": "567 Residency Road",
+        "city": "Ahmedabad",
+        "state": "GJ",
+        "postalCode": "380002",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 17,
+      "name": "Shreya Joshi",
+      "phone": "+91 9678901234",
+      "email": "shreya.joshi@example.com",
+      "status": "active",
+      "address": {
+        "street": "678 MG Road",
+        "city": "Chennai",
+        "state": "TN",
+        "postalCode": "600002",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 18,
+      "name": "Vikas Kulkarni",
+      "phone": "+91 9789012345",
+      "email": "vikas.kulkarni@example.com",
+      "status": "active",
+      "address": {
+        "street": "789 Indiranagar",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560004",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 19,
+      "name": "Anita Reddy",
+      "phone": "+91 9890123456",
+      "email": "anita.reddy@example.com",
+      "status": "active",
+      "address": {
+        "street": "890 Hitech City",
+        "city": "Hyderabad",
+        "state": "TG",
+        "postalCode": "500002",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 20,
+      "name": "Rohan Sinha",
+      "phone": "+91 9901234567",
+      "email": "rohan.sinha@example.com",
+      "status": "active",
+      "address": {
+        "street": "901 Camp Area",
+        "city": "Pune",
+        "state": "MH",
+        "postalCode": "411002",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 21,
+      "name": "Kavita Arora",
+      "phone": "+91 9012345678",
+      "email": "kavita.arora@example.com",
+      "status": "active",
+      "address": {
+        "street": "123 Mall Road",
+        "city": "Chandigarh",
+        "state": "CH",
+        "postalCode": "160001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 22,
+      "name": "Suresh Iyer",
+      "phone": "+91 9123456789",
+      "email": "suresh.iyer@example.com",
+      "status": "active",
+      "address": {
+        "street": "234 Race Course Road",
+        "city": "Coimbatore",
+        "state": "TN",
+        "postalCode": "641001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 23,
+      "name": "Divya Pandit",
+      "phone": "+91 9234567890",
+      "email": "divya.pandit@example.com",
+      "status": "active",
+      "address": {
+        "street": "345 Charminar",
+        "city": "Hyderabad",
+        "state": "TG",
+        "postalCode": "500003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 24,
+      "name": "Prakash Jain",
+      "phone": "+91 9345678901",
+      "email": "prakash.jain@example.com",
+      "status": "active",
+      "address": {
+        "street": "456 Park Road",
+        "city": "Indore",
+        "state": "MP",
+        "postalCode": "452001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 25,
+      "name": "Sakshi Deshmukh",
+      "phone": "+91 9456789012",
+      "email": "sakshi.deshmukh@example.com",
+      "status": "active",
+      "address": {
+        "street": "567 Law College Road",
+        "city": "Pune",
+        "state": "MH",
+        "postalCode": "411003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 26,
+      "name": "Nitin Bhatia",
+      "phone": "+91 9567890123",
+      "email": "nitin.bhatia@example.com",
+      "status": "active",
+      "address": {
+        "street": "678 Residency Road",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560005",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 27,
+      "name": "Snehal Kaur",
+      "phone": "+91 9678901234",
+      "email": "snehal.kaur@example.com",
+      "status": "active",
+      "address": {
+        "street": "789 MG Road",
+        "city": "Ludhiana",
+        "state": "PB",
+        "postalCode": "141001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 28,
+      "name": "Aditya Reddy",
+      "phone": "+91 9789012345",
+      "email": "aditya.reddy@example.com",
+      "status": "active",
+      "address": {
+        "street": "890 Hitech City",
+        "city": "Hyderabad",
+        "state": "TG",
+        "postalCode": "500004",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 29,
+      "name": "Ritika Chauhan",
+      "phone": "+91 9890123456",
+      "email": "ritika.chauhan@example.com",
+      "status": "active",
+      "address": {
+        "street": "901 Model Town",
+        "city": "Delhi",
+        "state": "DL",
+        "postalCode": "110004",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 30,
+      "name": "Sanjay Kapoor",
+      "phone": "+91 9901234567",
+      "email": "sanjay.kapoor@example.com",
+      "status": "active",
+      "address": {
+        "street": "123 Main Street",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400004",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 31,
+      "name": "Nisha Patel",
+      "phone": "+91 9012345678",
+      "email": "nisha.patel@example.com",
+      "status": "active",
+      "address": {
+        "street": "234 Mall Road",
+        "city": "Ahmedabad",
+        "state": "GJ",
+        "postalCode": "380003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 32,
+      "name": "Rohit Malhotra",
+      "phone": "+91 9123456789",
+      "email": "rohit.malhotra@example.com",
+      "status": "active",
+      "address": {
+        "street": "345 Nehru Road",
+        "city": "Chandigarh",
+        "state": "CH",
+        "postalCode": "160002",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 33,
+      "name": "Anjali Gupta",
+      "phone": "+91 9234567890",
+      "email": "anjali.gupta@example.com",
+      "status": "active",
+      "address": {
+        "street": "456 Park Street",
+        "city": "Kolkata",
+        "state": "WB",
+        "postalCode": "700003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 34,
+      "name": "Rajesh Sharma",
+      "phone": "+91 9345678901",
+      "email": "rajesh.sharma@example.com",
+      "status": "active",
+      "address": {
+        "street": "567 MG Road",
+        "city": "Jaipur",
+        "state": "RJ",
+        "postalCode": "302001",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 35,
+      "name": "Kavya Nair",
+      "phone": "+91 9456789012",
+      "email": "kavya.nair@example.com",
+      "status": "active",
+      "address": {
+        "street": "678 Marine Drive",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400005",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 36,
+      "name": "Arjun Mehta",
+      "phone": "+91 9567890123",
+      "email": "arjun.mehta@example.com",
+      "status": "active",
+      "address": {
+        "street": "789 Residency Road",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560006",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 37,
+      "name": "Sanya Singh",
+      "phone": "+91 9678901234",
+      "email": "sanya.singh@example.com",
+      "status": "active",
+      "address": {
+        "street": "890 Mall Road",
+        "city": "Lucknow",
+        "state": "UP",
+        "postalCode": "226001",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 38,
+      "name": "Vikas Kumar",
+      "phone": "+91 9789012345",
+      "email": "vikas.kumar@example.com",
+      "status": "active",
+      "address": {
+        "street": "901 Nehru Place",
+        "city": "Delhi",
+        "state": "DL",
+        "postalCode": "110005",
+        "country": "India"
+      },
+      "gender": "male"
+    },
+    {
+      "id": 39,
+      "name": "Ritu Sharma",
+      "phone": "+91 9890123456",
+      "email": "ritu.sharma@example.com",
+      "status": "active",
+      "address": {
+        "street": "123 Park Road",
+        "city": "Chennai",
+        "state": "TN",
+        "postalCode": "600003",
+        "country": "India"
+      },
+      "gender": "female"
+    },
+    {
+      "id": 40,
+      "name": "Siddharth Verma",
+      "phone": "+91 9901234567",
+      "email": "siddharth.verma@example.com",
+      "status": "active",
+      "address": {
+        "street": "234 Race Course Road",
+        "city": "Indore",
+        "state": "MP",
+        "postalCode": "452002",
+        "country": "India"
+      },
+      "gender": "male"
+    }
   ]
+  
+  
 
 }
